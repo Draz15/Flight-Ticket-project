@@ -222,7 +222,7 @@ z-index: 2;
 }
 .container-one-item.marg{
     border-color: #FF7F3E;
-    margin: 0 5% ;
+    margin: 0 3% ;
 }
 .container-one-item.marg::after{
     background-color: #FF7F3E;
@@ -421,7 +421,7 @@ transition: 1.3s;
     height: 100%;
 }
 .presentation{
-    margin: 70px 0 0 100px ;
+    margin: 70px 0 0 70px ;
     width: 45%;
     color: #1c1c34b7;
     display: inline-block;
