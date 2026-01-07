@@ -125,7 +125,7 @@ position: relative;
     position: relative;
 }
  .home-overlay{
-background:  rgba(0, 0, 0, .5) ;
+background:  rgba(0, 0, 0, .45) ;
 height: 100%;
 width: 100%;
 position: absolute;
