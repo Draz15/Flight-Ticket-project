@@ -78,7 +78,7 @@ body{
     display: none;
     position: absolute;
     width: 180px;
-    height: 130px;
+    height: 131px;
     list-style: none;
     background-color: #1B56FD;
     border-radius: 5px;
@@ -657,8 +657,8 @@ margin-bottom:60px ;
     color: #00125a;
     display: inline-block;
     background-color: #bcd9f9;
-    margin-bottom: 9px;
+    margin-bottom: 13px;
     }
 .final-links > a:hover{background-color: #2ab1f9; color: #fff; transition: .8s;}
 .final-links > a i{line-height: 55px; font-size: 26px;}
-.final-links p{font-family: 'Poppins'; font-size: 14px; opacity: .5;}
+.final-links p{font-family: 'Poppins'; font-size: 13px; opacity: .5;}
