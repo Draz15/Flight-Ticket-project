@@ -616,7 +616,7 @@ margin-bottom:60px ;
 .links a:hover{color: #fff; transition: .3s;}
 .employee-table{
     height: 480px;
-    width: 26%;
+    width: 26.2%;
     margin-top: -20px;
     border: none;
     color: #fff;
@@ -626,10 +626,9 @@ margin-bottom:60px ;
     left: 60px;
     bottom: 0;
 }
-.employee-table:hover{ bottom: 30px;transition: .8s;}
 .employee-table:hover{bottom: 30px; transition: 1s;}
 .employee-table img{border-radius: 12%; border: 1.6px solid #1f1d1d  ;}
-.employee-table .employee-link{display: inline-block; margin: 15px 6px;}
+.employee-table .employee-link{display: inline-block; margin: 15px 4px;}
 .employee-table .employee-link i{font-size: 22px; color:#fff;}
  .employee-link i:hover{color: #00125a;transition: .5s;}
 .employee-table .employee-link span{color: #1f1d1d;}
