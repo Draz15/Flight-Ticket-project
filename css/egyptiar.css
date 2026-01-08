@@ -349,7 +349,7 @@ transition: 1.3s;
 .title1.change1::after{width: 150px; left: 44%;}
 .title1.change1{ margin-bottom: 20px;}
 .container-items{
-    width: 88%;
+    width: 90%;
     height: 550px;
     margin: auto;
 }
