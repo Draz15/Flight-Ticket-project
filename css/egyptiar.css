@@ -322,22 +322,17 @@ transition: 1.3s;
 }
 .content-image-overlay h3{
     font-size: 22px;
-    color: #ffffffb5;
-}
+    color: #ffffffb5;}
 .content-image-overlay p{
     margin: 20px 0;
     font-weight: 600;
 }
-.content-image-overlay a{
-    padding: 10px 5px;
-}
+.content-image-overlay a{padding: 10px 5px;}
 .content-image-overlay a i{
     font-size: 21px;
-    color: #fff;
-}
+    color: #fff;}
 .content-image-overlay a:hover i{
-    color: #FF7F3E;
-}
+    color: #FF7F3E;}
 .page4{
     height: 110vh;
     padding-top: 50px;
